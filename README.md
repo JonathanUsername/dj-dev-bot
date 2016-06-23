@@ -11,6 +11,6 @@ You'll need a secrets.private.json file that looks like this:
 }
 ```
 
-where the blahblahsomething is your Slack API key.
+where the blahblahsomething is your Slack API test token and can be got here https://api.slack.com/docs/oauth-test-tokens
 
 You don't need a Spotify API key, since we're pulling the info out of your machine using Applescript.
